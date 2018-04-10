@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="roucongrong" size="512.000000 512.000000" />
+    <ImageTarget name="guijia" size="512.000000 512.000000" />
+    <ImageTarget name="hajie" size="512.000000 512.000000" />
+    <ImageTarget name="zhebeimu" size="512.000000 512.000000" />
+    <ImageTarget name="zhiqiao" size="512.000000 512.000000" />
+    <ImageTarget name="xixin" size="512.000000 512.000000" />
+    <ImageTarget name="panxieye" size="512.000000 512.000000" />
+    <ImageTarget name="zexie" size="512.000000 512.000000" />
+    <ImageTarget name="qishe" size="512.000000 512.000000" />
+    <ImageTarget name="maidong" size="512.000000 512.000000" />
+    <ImageTarget name="huangjing" size="512.000000 512.000000" />
+    <ImageTarget name="cangzhu" size="512.000000 512.000000" />
+    <ImageTarget name="tongcao" size="512.000000 512.000000" />
+    <ImageTarget name="shanzhuyu" size="512.000000 512.000000" />
+    <ImageTarget name="qinghao" size="512.000000 512.000000" />
+    <ImageTarget name="qianniuzi" size="512.000000 512.000000" />
+    <ImageTarget name="nvzhenzi" size="512.000000 512.000000" />
+    <ImageTarget name="mahuang" size="512.000000 512.000000" />
+    <ImageTarget name="longdan" size="512.000000 512.000000" />
+    <ImageTarget name="jixueteng" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4D7DB4BA-E368-5E77-4A64-20C1EF0AAA57}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/scene2/MainManager_2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/scene3/MainController.cs" Line="131" Column="5" />
+      <File FileName="Assets/Scripts/scene2/MainManager_2.cs" Line="17" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BaiTongAR PreferredExecutionTarget="Unity.Editor" />
+</Properties>

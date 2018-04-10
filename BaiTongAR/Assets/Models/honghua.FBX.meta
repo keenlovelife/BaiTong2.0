@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: fcd2a62d7cae69a40b27f32a01631dae
+timeCreated: 1504147643
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder10
+    100004: pCylinder11
+    100006: pCylinder12
+    100008: pCylinder13
+    100010: pCylinder14
+    100012: pCylinder15
+    100014: pCylinder16
+    100016: pCylinder17
+    100018: pCylinder18
+    100020: pCylinder19
+    100022: pCylinder2
+    100024: pCylinder20
+    100026: pCylinder21
+    100028: pCylinder22
+    100030: pCylinder23
+    100032: pCylinder24
+    100034: pCylinder25
+    100036: pCylinder26
+    100038: pCylinder27
+    100040: pCylinder28
+    100042: pCylinder29
+    100044: pCylinder3
+    100046: pCylinder30
+    100048: pCylinder31
+    100050: pCylinder32
+    100052: pCylinder33
+    100054: pCylinder4
+    100056: pCylinder5
+    100058: pCylinder6
+    100060: pCylinder7
+    100062: pCylinder8
+    100064: pCylinder9
+    400000: //RootNode
+    400002: pCylinder10
+    400004: pCylinder11
+    400006: pCylinder12
+    400008: pCylinder13
+    400010: pCylinder14
+    400012: pCylinder15
+    400014: pCylinder16
+    400016: pCylinder17
+    400018: pCylinder18
+    400020: pCylinder19
+    400022: pCylinder2
+    400024: pCylinder20
+    400026: pCylinder21
+    400028: pCylinder22
+    400030: pCylinder23
+    400032: pCylinder24
+    400034: pCylinder25
+    400036: pCylinder26
+    400038: pCylinder27
+    400040: pCylinder28
+    400042: pCylinder29
+    400044: pCylinder3
+    400046: pCylinder30
+    400048: pCylinder31
+    400050: pCylinder32
+    400052: pCylinder33
+    400054: pCylinder4
+    400056: pCylinder5
+    400058: pCylinder6
+    400060: pCylinder7
+    400062: pCylinder8
+    400064: pCylinder9
+    2300000: pCylinder10
+    2300002: pCylinder11
+    2300004: pCylinder12
+    2300006: pCylinder13
+    2300008: pCylinder14
+    2300010: pCylinder15
+    2300012: pCylinder16
+    2300014: pCylinder17
+    2300016: pCylinder18
+    2300018: pCylinder19
+    2300020: pCylinder2
+    2300022: pCylinder20
+    2300024: pCylinder21
+    2300026: pCylinder22
+    2300028: pCylinder23
+    2300030: pCylinder24
+    2300032: pCylinder25
+    2300034: pCylinder26
+    2300036: pCylinder27
+    2300038: pCylinder28
+    2300040: pCylinder29
+    2300042: pCylinder3
+    2300044: pCylinder30
+    2300046: pCylinder31
+    2300048: pCylinder32
+    2300050: pCylinder33
+    2300052: pCylinder4
+    2300054: pCylinder5
+    2300056: pCylinder6
+    2300058: pCylinder7
+    2300060: pCylinder8
+    2300062: pCylinder9
+    3300000: pCylinder10
+    3300002: pCylinder11
+    3300004: pCylinder12
+    3300006: pCylinder13
+    3300008: pCylinder14
+    3300010: pCylinder15
+    3300012: pCylinder16
+    3300014: pCylinder17
+    3300016: pCylinder18
+    3300018: pCylinder19
+    3300020: pCylinder2
+    3300022: pCylinder20
+    3300024: pCylinder21
+    3300026: pCylinder22
+    3300028: pCylinder23
+    3300030: pCylinder24
+    3300032: pCylinder25
+    3300034: pCylinder26
+    3300036: pCylinder27
+    3300038: pCylinder28
+    3300040: pCylinder29
+    3300042: pCylinder3
+    3300044: pCylinder30
+    3300046: pCylinder31
+    3300048: pCylinder32
+    3300050: pCylinder33
+    3300052: pCylinder4
+    3300054: pCylinder5
+    3300056: pCylinder6
+    3300058: pCylinder7
+    3300060: pCylinder8
+    3300062: pCylinder9
+    4300000: pCylinder2
+    4300002: pCylinder3
+    4300004: pCylinder4
+    4300006: pCylinder5
+    4300008: pCylinder6
+    4300010: pCylinder7
+    4300012: pCylinder8
+    4300014: pCylinder9
+    4300016: pCylinder10
+    4300018: pCylinder11
+    4300020: pCylinder12
+    4300022: pCylinder13
+    4300024: pCylinder14
+    4300026: pCylinder15
+    4300028: pCylinder16
+    4300030: pCylinder17
+    4300032: pCylinder18
+    4300034: pCylinder19
+    4300036: pCylinder20
+    4300038: pCylinder21
+    4300040: pCylinder22
+    4300042: pCylinder23
+    4300044: pCylinder24
+    4300046: pCylinder25
+    4300048: pCylinder26
+    4300050: pCylinder27
+    4300052: pCylinder28
+    4300054: pCylinder29
+    4300056: pCylinder30
+    4300058: pCylinder31
+    4300060: pCylinder32
+    4300062: pCylinder33
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

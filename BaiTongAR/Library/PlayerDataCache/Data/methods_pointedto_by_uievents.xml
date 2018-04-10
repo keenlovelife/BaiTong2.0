@@ -1,0 +1,16 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="MainController">
+			<method name="TishiButtonClose"/>
+			<method name="JieTu"/>
+			<method name="button"/>
+			<method name="Tishi"/>
+			<method name="Quit"/>
+			<method name="LeftOrRight"/>
+		</type>
+		<type fullname="LoadScenesManager">
+			<method name="LoadScenes"/>
+			<method name="LoadScenes"/>
+		</type>
+	</assembly>
+</linker>

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: bff9efc7c32d5b447a06372f297b43cd
+timeCreated: 1519978517
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: //RootNode
+    100004: Sphere001
+    100006: Sphere002
+    100008: Sphere003
+    100010: Sphere004
+    100012: Sphere005
+    100014: Sphere006
+    100016: Sphere007
+    100018: Sphere008
+    100020: Sphere010
+    100022: Sphere011
+    100024: Sphere012
+    100026: Sphere013
+    100028: Sphere014
+    100030: Sphere015
+    100032: Sphere016
+    100034: Sphere017
+    400000: Cylinder001
+    400002: //RootNode
+    400004: Sphere001
+    400006: Sphere002
+    400008: Sphere003
+    400010: Sphere004
+    400012: Sphere005
+    400014: Sphere006
+    400016: Sphere007
+    400018: Sphere008
+    400020: Sphere010
+    400022: Sphere011
+    400024: Sphere012
+    400026: Sphere013
+    400028: Sphere014
+    400030: Sphere015
+    400032: Sphere016
+    400034: Sphere017
+    2300000: Cylinder001
+    2300002: Sphere001
+    2300004: Sphere002
+    2300006: Sphere003
+    2300008: Sphere004
+    2300010: Sphere005
+    2300012: Sphere006
+    2300014: Sphere007
+    2300016: Sphere008
+    2300018: Sphere010
+    2300020: Sphere011
+    2300022: Sphere012
+    2300024: Sphere013
+    2300026: Sphere014
+    2300028: Sphere015
+    2300030: Sphere016
+    2300032: Sphere017
+    3300000: Cylinder001
+    3300002: Sphere001
+    3300004: Sphere002
+    3300006: Sphere003
+    3300008: Sphere004
+    3300010: Sphere005
+    3300012: Sphere006
+    3300014: Sphere007
+    3300016: Sphere008
+    3300018: Sphere010
+    3300020: Sphere011
+    3300022: Sphere012
+    3300024: Sphere013
+    3300026: Sphere014
+    3300028: Sphere015
+    3300030: Sphere016
+    3300032: Sphere017
+    4300000: Sphere001
+    4300002: Sphere002
+    4300004: Sphere003
+    4300006: Sphere004
+    4300008: Sphere005
+    4300010: Sphere006
+    4300012: Sphere007
+    4300014: Sphere008
+    4300016: Cylinder001
+    4300018: Sphere010
+    4300020: Sphere011
+    4300022: Sphere012
+    4300024: Sphere013
+    4300026: Sphere014
+    4300028: Sphere015
+    4300030: Sphere016
+    4300032: Sphere017
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
